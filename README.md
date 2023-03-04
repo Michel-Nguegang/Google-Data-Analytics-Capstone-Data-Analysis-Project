@@ -10,4 +10,4 @@ This is an exploratory data analysis project done with Excel and R in Kaggle. Th
 The full project is posted on Kaggle:
 https://www.kaggle.com/code/michelnguegang/how-does-a-bike-share-navigate-speedy-success
 
-Thank you!
+Thank you !
