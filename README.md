@@ -6,3 +6,8 @@ This is an exploratory data analysis project done with Excel and R in Kaggle. Th
 - Data Cleaning: Assessing Data Quality, Cleaning Data, Combining and Organizing Data, Creating New Variables
 - Data Analysis and Visualization: Divvy Trip Trends analysis and visualization and creating charts and graphs
 - Recommendations for Future Analysis
+
+The full project is posted on Kaggle:
+https://www.kaggle.com/code/michelnguegang/how-does-a-bike-share-navigate-speedy-success
+
+Thank you!
